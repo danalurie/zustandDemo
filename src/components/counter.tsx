@@ -7,6 +7,7 @@ export default function Counter() {
     <div className="Counter">
       <button onClick={() => increaseCount()}>Increase</button>
       <button onClick={() => decreaseCount()}>Decrease</button>
+      hello
     </div>
   );
 }
